@@ -19,5 +19,4 @@ npm install
 npm run dev
 ```
 
-4. Откройте в браузере `http://localhost:3000`. 
-Для входа потребуются ваши учетные данные (`idInstance` и `apiTokenInstance`) из системы GREEN-API.
+4. Откройте в браузере `http://localhost:3000` 
